@@ -6,14 +6,20 @@
 //  Copyright (c) 2014 org.mikecamara. All rights reserved.
 //
 
+#import <NewRelicAgent/NewRelic.h>
 #import "FQAppDelegate.h"
 
 @implementation FQAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    
+    [NewRelicAgent startWithApplicationToken:@"AAa6411300fc752d8ef52ad6f5909634a92c8904a7"];
+
+    self.window = [[UIWindow alloc]initWithFrame:[[UIScreen mainScreen]bounds]];
+       [self.window makeKeyAndVisible];
     return YES;
+
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
@@ -42,5 +48,8 @@
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
+
+
+
 
 @end

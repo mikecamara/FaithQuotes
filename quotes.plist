@@ -1,5 +1,794 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+ Quotes
+ -->
 <plist version="1.0">
-<dict/>
+    <array>
+        
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Prayer is the best weapon we possess. It is the key that opens the heart of God.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Humility and purity are the wings which carry us to God and make us almost divine.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Jesus will assist you and give you the grace to live a heavenly life and nothing whatever will be able to separate you from His love.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Love our Lady and make her loved; always recite the Rosary and recite it as often as possible.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Imagine Jesus crucified in your arms and on your chest, and say a hundred times as you kiss His chest, “This is my hope, the living source of my happiness; this is the heart of my soul; nothing will ever separate me from His love.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Stay with me, Lord, for as poor as my soul is I want it to be a place of consolation for You.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Love Jesus, love Him very much, but to do this, be ready to love sacrifice more.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Our Lord sends the crosses; we do not have to invent them.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Charity is the measure by which Our Lord judges all things.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Don’t allow any sadness to dwell in your soul, for sadness prevents the Holy Spirit from acting freely.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>May Jesus be always with you and may He be pleased to make all redeemed souls worthy to be received one day into the kingdom of glory. May He include us in the great number of those who have known how to make continual progress at the school of His love.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>It would be well to remember that the graces and consolations of prayer are not waters of this earth but of Heaven. Therefore, all our efforts are not sufficient to make them fall, even though it be necessary to prepare oneself with great diligence.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>May the Child Jesus be the star that guides you through the desert of your present life.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>The more you are afflicted, the more you ought to rejoice, because in the fire of tribulation the soul will become pure gold, worthy to be placed and to shine in the heavenly palace.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>As gifts increase in you, let your humility grow, for you must consider that everything is given to you on loan.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>You must concentrate on pleasing God alone, and if He is pleased, you must be pleased.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>If we only knew how God regards this Sacrifice, we would risk our lives to be present at a single Mass.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>In the spiritual life, you must take one step forward each day in a vertical line, from the bottom up.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Some people are so foolish that they think they can go through life without the help of the Blessed Mother.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>The earth could exist more easily without the sun than without the Holy Sacrifice of the Mass.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>I beg You, O my God, to be my life, my ship, my haven. You have made me ascend the cross of Your Son and I struggle to accept it as best I can. I am sure that I shall never come down from it.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Recommend me to the Lord and to the Virgin Mother because I am in extreme need of their help.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>As the days pass, I see ever more clearly the greatness of God, and in this light, which grows brighter and brighter, my soul burns with the desire to be united to Him by indissoluble bonds.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>As long as you receive Jesus in the Blessed Sacrament every morning, you must consider yourself extremely fortunate.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>The Mother of Sorrows is my confidante, my teacher, my counselor, and my powerful advocate.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Bless Him in all that He makes you suffer on this earth and rejoice in it, for each victory gained has a corresponding crown in paradise.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Jesus permits the spiritual combat as a purification, not as a punishment. The trial is not unto death but unto salvation.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>I feel a great desire to abandon myself with greater trust to the Divine Mercy and to place my hope in God alone.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Give yourself up into the arms of your Heavenly Mother. She will take good care of your soul.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>As long as there remains a drop of blood in our body, there will be a struggle between right and wrong.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Every Holy Mass, heard with devotion, produces in our souls marvelous effects, abundant spiritual and material graces which we ourselves, do not know.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>If we are imitators of Jesus Christ and face up to all life’s battles, we too will share in His victories.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Jesus himself wants my sufferings; He needs them for souls.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Jesus, our dear Mother, my little angel, St. Joseph, and our father, St. Francis, are almost always with me.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+    
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>I have often raised my hand in the silence of the night and in my solitary cell, blessing you all and presenting you to Jesus and to our father, St. Francis of Assisi.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>In all the events of life, you must recognize the Divine will. Adore and bless it, especially in the things which are the hardest for you.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>In my greatest sufferings, it seems to me that I no longer have a mother on this earth, but a very compassionate one in Heaven.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Remember that God is within us when we are in a state of grace and outside of us when we are in a state of sin; but His angel never abandons us. . . He is our most sincere and faithful friend even when we sadden him with our bad behavior.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>You must always humble yourself lovingly before God and before men, because God speaks only to those who are truly humble and He enriches them with His gifts.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Humility and purity are the wings which carry us to God and make us almost divine.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Let us always keep before our eyes the fact that here on earth we are on a battlefield and that in paradise we shall receive the crown of victory; that this is a testing-ground and the prize will be awarded up above; that we are now in a land of exile while our true homeland is Heaven to which we must continually aspire.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Jesus will assist you and give you the grace to live a heavenly life and nothing whatever will be able to separate you from His love.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>I remind you that I belong with great ardor to everyone and for this reason I am suffering immensely for all.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Hold on tightly to the Rosary. Be very grateful to the Madonna because it was she who gave us Jesus.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Stay with me, Lord, for as poor as my soul is I want it to be a place of consolation for You.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Love Jesus, love Him very much, but to do this, be ready to love sacrifice more.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Charity is the measure by which Our Lord judges all things.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Don’t allow any sadness to dwell in your soul, for sadness prevents the Holy Spirit from acting freely.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Let us therefore, love to quench our thirst at this fountain of living water and go forward all the time along the way of divine love. But let us also be convinced that our souls will never be satisfied here below. In fact it would be disastrous for us if, at a certain stage of our journey, we were to feel satisfied, for it would be a sign that we thought we had reached our goal, and in this we would be deceived.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>May Jesus be always with you and may He be pleased to make all redeemed souls worthy to be received one day into the kingdom of glory. May He include us in the great number of those who have known how to make continual progress at the school of His love.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>It would be well to remember that the graces and consolations of prayer are not waters of this earth but of Heaven. Therefore, all our efforts are not sufficient to make them fall, even though it be necessary to prepare oneself with great diligence.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>May the Child Jesus be the star that guides you through the desert of your present life.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>I consider what writers say about the kingfishers, the little birds who build their nests on the beach near the sea. They build it in a circular form and so tightly compressed that the sea water cannot penetrate it. . .Here these graceful little birds place their young ones, so that when the sea comes upon them by surprise, they can swim with confidence and float on the waves. . .I want your heart to be like this: well compact and closed on all sides, so that if the worries and storms of the world, the evil spirit, and the flesh come upon it, it will not be penetrated. Leave but one opening to your heart, that is toward heaven. . .How I love and am enraptured by those little birds.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Our present life is given only to gain the eternal one and if we don’t think about it, we build our affections on what belongs to this world, where our life is transitory. When we have tolowrez23 leave it we are afraid and become agitated. Believe me, to live happily in this pilgrimage, we have to aim at the hope of arriving at our Homeland, where we will stay eternally. Meanwhile we have to believe firmly that God calls us to Himself and follows us along the path towards Him. He will never permit anything to happen to us that is not for our greater good. He knows who we are and He will hold out His paternal hand to us during difficulties, so that nothing prevents us from running to Him swiftly. But to enjoy this grace we must have complete trust in Him.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>The more you are afflicted, the more you ought to rejoice, because in the fire of tribulation the soul will become pure gold, worthy to be placed and to shine in the heavenly palace.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>I have worked and I want to work. I have prayed and I want to pray. I have kept watch and I want to keep watch. I have cried and I want to cry – always for all of my brothers who are in exile. I know and understand that this is very little but this is what I know how to do; this is what I am able to do; and this is all that I can do.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>As gifts increase in you, let your humility grow, for you must consider that everything is given to you on loan.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>You must concentrate on pleasing God alone, and if He is pleased, you must be pleased.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>In the first place, I want you to know that Jesus needs someone to mourn with Him for human wickedness. This is why he leads me along the sorrowful paths. But blessed be His charity forever. He knows how to combine the bitter with the sweet and convert the fleeting pains of this life into eternal happiness.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>If we only knew how God regards this Sacrifice, we would risk our lives to be present at a single Mass.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Keep your eyes fixed on Him who is your guide to the heavenly country, where He is leading you. What does it matter to you whether Jesus wishes to guide you to Heaven by way of the desert or by the meadow, so long as He is always with you and you arrive at the possession of a blessed eternity?</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>In the spiritual life, you must take one step forward each day in a vertical line, from the bottom up.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Our Lord sometimes makes you feel the weight of the cross. This weight seems unbearable but you carry it because in His love and mercy, the Lord helps you and gives you strength.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>You must not be discouraged or let yourself become dejected if your actions have not succeeded as perfectly as you intended. What do you expect? We are made of clay and not every soil yields the fruits expected by the one who tills it. But let us always humble ourselves and acknowledge that we are nothing if we lack the Divine assistance.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>When Jesus wants to make me happy, He fills my heart with that spirit which is all fire, and speaks to me about His delights; but when He wants to be consoled, He speaks to me about His pains, and invites me in a manner that is both a request and a command, to offer my body to alleviate His sufferings.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>If God wills to prolong our trials, do not let us lament or try to find out the reason. . .We have to see God through the fire of thorns, and to do this we must go barefoot and renounce our own will and affection and accept the will of God wholeheartedly.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>The earth could exist more easily without the sun than without the Holy Sacrifice of the Mass.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Whenever you are seized by melancholy, let your thoughts dwell on that fateful night on which the Son of God began the work of redemption in the solitude of Gethsemane and offer your own sufferings to the Divine Father, along with the sufferings of Jesus.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <!--
+         new  Quotes
+         -->
+        
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Teach us to give and not count the cost.</string>
+            <key>source</key>  <string>St. Ignatius de Loyola</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Pray as though everything depended on God. Work as though everything depended on you.</string>
+            <key>source</key>  <string>St. Augustine</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Don't you long to shout to those youths who are bustling around you: Fools! Leave those worldly things that shackle the heart - and very often degrade it - leave all that and come with us in search of Love!</string>
+            <key>source</key>  <string>St. Josemaria Escriva</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>To convert somebody go and take them by the hand and guide them.</string>
+            <key>source</key>  <string>St. Thomas Aquinas</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>On the question of relating to our fellowman – our neighbor’s spiritual need transcends every commandment. Everything else we do is a means to an end. But love is an end already, since God is love.</string>
+            <key>source</key>  <string>St. Teresia Benedicta</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>SLord, make me an instrument of your peace; where there is hatred, let me sow love; where there is injury, pardon; where there is doubt, faith; where there is despair, hope; where there is darkness, light; and where there is sadness, joy.</string>
+            <key>source</key>  <string>St. Francis</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Our hearts were made for You, O Lord, and they are restless until they rest in you.</string>
+            <key>source</key>  <string>St. Augustine of Hippo</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Charity is certainly greater than any rule. Moreover, all rules must lead to charity.</string>
+            <key>source</key>  <string>St. Vincent de Paul</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Eat my flesh,’ [Jesus] says, ‘and drink my blood.’ The Lord supplies us with these intimate nutrients, he delivers over his flesh and pours out his blood, and nothing is lacking for the growth of his children</string>
+            <key>source</key>  <string>St. Clement of Alexandria</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>The nation doesn’t simply need what we have. It needs what we are.</string>
+            <key>source</key>  <string>St. Teresia Benedicta</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>We are to love God for Himself, because of a twofold reason; nothing is more reasonable, nothing more profitable.</string>
+            <key>source</key>  <string>St. Bernard of Clairvaux</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>If this is the way You treat Your friends, no wonder You have so few!</string>
+            <key>source</key>  <string>St. Teresa of Avila</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Give something, however small, to the one in need. For it is not small to one who has nothing. Neither is it small to God, if we have given what we could.</string>
+            <key>source</key>  <string>St. Gregory Nazianzen</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Christ be with me, Christ within me, Christ behind me, Christ before me, Christ beside me, Christ to win me, Christ to comfort me and restore me, Christ beneath me, Christ above me, Christ in quiet, Christ in danger, Christ in hearts of all that love me, Christ in mouth of friend and stranger.</string>
+            <key>source</key>  <string>St. Patrick</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Christ said, “I am the Truth”; he did not say “I am the custom."</string>
+            <key>source</key>  <string>St. Toribio</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>There are more tears shed over answered prayers than over unanswered prayers.</string>
+            <key>source</key>  <string>St. Teresa of Avila</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>I have no taste for corruptible food nor for the pleasures of this life. I desire the bread of God, which is the flesh of Jesus Christ, who was of the seed of David; and for drink I desire his blood, which is love incorruptible</string>
+            <key>source</key>  <string>St. Ignatius of Antioch</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>You must ask God to give you power to fight against the sin of pride which is your greatest enemy – the root of all that is evil, and the failure of all that is good. For God resists the proud.</string>
+            <key>source</key>  <string>St. Vincent de Paul</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Let us go forward in peace, our eyes upon heaven, the only one goal of our labors.</string>
+            <key>source</key>  <string>St. Therese of Lisieux</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Love God, serve God; everything is in that.</string>
+            <key>source</key>  <string>St. Clare of Assisi</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Apart from the cross, there is no other ladder by which we may get to heaven.</string>
+            <key>source</key>  <string>St. Rose of Lima</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Whether, therefore, we receive what we ask for, or do not receive it, let us still continue steadfast in prayer. For to fail in obtaining the desires of our heart, when God so wills it, is not worse than to receive it; for we know not as He does, what is profitable to us.</string>
+            <key>source</key>  <string>St. John Chrysostom</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>What does the poor man do at the rich man’s door, the sick man in the presence of his physician, the thirsty man at a limpid stream? What they do, I do before the Eucharistic God. I pray. I adore. I love.</string>
+            <key>source</key>  <string>St. Francis</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Holy Communion is the shortest and safest way to heaven.</string>
+            <key>source</key>  <string>Pope St. Pius X</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>If a man wishes to be sure of the road he treads on, he must close his eyes and walk in the dark.</string>
+            <key>source</key>  <string>St. John of the Cross</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Love is the most necessary of all virtues. Love in the person who preaches the word of God is like fire in a musket. If a person were to throw a bullet with his hands, he would hardly make a dent in anything; but if the person takes the same bullet and ignites some gunpowder behind it, it can kill. It is much the same with the word of God. If it is spoken by someone who is filled with the fire of charity- the fire of love of God and neighbor- it will work wonders.</string>
+            <key>source</key>  <string>St. Anthony Mary Claret</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Our Lord loves you and loves you tenderly; and if He does not let you feel the sweetness of His love, it is to make you more humble and abject in your own eyes.</string>
+            <key>source</key>  <string>St. Pio of Pietrelcino</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>You learn to speak by speaking, to study by studying, to run by running, to work by working, and just so, you learn to love by loving. All those who think to learn in any other way deceive themselves.</string>
+            <key>source</key>  <string>St. Francis de Sales</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Pray, Hope, and Don't Worry</string>
+            <key>source</key>  <string>St. Pio of Pietrelcina</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>All the darkness in the world cannot extinguish the light of a single candle.</string>
+            <key>source</key>  <string>St. Francis</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Tribulation is a gift from God - one that he especially gives His special friends.</string>
+            <key>source</key>  <string>St. Thomas More</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Preach the Gospel at all times. If necessary, use words.</string>
+            <key>source</key>  <string>St. Francis</string>
+        </dict>
+        
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>We can do no great things; only small things with great love.</string>
+            <key>source</key>  <string>Blessed Teresa of Calcutta</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Joy is a net of love by which we catch souls.</string>
+            <key>source</key>  <string>Blessed Teresa of Calcutta</string>
+        </dict>
+        
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>It is a poverty to decide that a child must die so that you may live as you wish.</string>
+            <key>source</key>  <string>Blessed Teresa of Calcutta</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>As the family goes, so goes the nation and so goes the whole world in which we live.</string>
+            <key>source</key>  <string>Venerable John Paul II</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Do not be afraid. Open wide the doors to Christ.</string>
+            <key>source</key>  <string>Venerable John Paul II</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>The human person is a good towards which the only proper attitude is love.</string>
+            <key>source</key>  <string>Venerable John Paul II</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Freedom consists not in doing what we like, but in having the right to do what we ought.</string>
+            <key>source</key>  <string>Venerable John Paul II</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>One who makes no mistakes, makes nothing.</string>
+            <key>source</key>  <string>St. Theresa of Avila</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>A dead thing can go with the stream, but only a living thing can go against it.</string>
+            <key>source</key>  <string>G. K. Chesterton</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Impartiality is a pompous name for indifference, which is an elegant name for ignorance.</string>
+            <key>source</key>  <string>G. K. Chesterton</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>What embitters the world is not excess of criticism, but an absence of self-criticism.</string>
+            <key>source</key>  <string>G. K. Chesterton</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>He is a [sane] man who can have tragedy in his heart and comedy in his head.</string>
+            <key>source</key>  <string>G. K. Chesterton</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Among the rich you will never find a really generous man even by accident. They may give their money away, but they will never give themselves away; they are egotistic, secretive, dry as old bones. To be smart enough to get all that money you must be dull enough to want it.</string>
+            <key>source</key>  <string>G. K. Chesterton</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>quote</key>  <string>Moderate strength is shown in violence, supreme strength is shown in levity.</string>
+            <key>source</key>  <string>G. K. Chesterton</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>The simplification of anything is always sensational.</string>
+            <key>source</key>  <string>G. K. Chesterton</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>The reason why sometimes you have asked and not received, is because you have asked amiss, either inconsistently, or lightly, or because you have asked for what was not good for you, or because you have ceased asking.</string>
+            <key>source</key>  <string>St. Basil the Great</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Let us therefore, love to quench our thirst at this fountain of living water and go forward all the time along the way of divine love. But let us also be convinced that our souls will never be satisfied here below. In fact it would be disastrous for us if, at a certain stage of our journey, we were to feel satisfied, for it would be a sign that we thought we had reached our goal, and in this we would be deceivedOne kind of evil dwells in the heart through long-continued prepossession; another kind attacks our thoughts through the medium of everyday things.</string>
+            <key>source</key>  <string>St. Mark the Ascetic</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>But if any of you want wisdom, let him ask of God, who giveth to all men abundantly, and upbraideth not; and it shall be given him.</string>
+            <key>source</key>  <string>James 1:5</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>When tribulations, infirmities, and contradictions come, we must not run away in a fright, but vanquish them like men.</string>
+            <key>source</key>  <string>St. Philip Neri</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>When tempted, invoke your Angel. he is more eager to help you than you are to be helped! Ignore the devil and do not be afraid of him: He trembles and flees at the sight of your Guardian Angel.</string>
+            <key>source</key>  <string>St. John Bosco</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Beside each believer stands an Angel as protector and shepherd, leading him to life.</string>
+            <key>source</key>  <string>St. Basil the Great</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>If I had to advise parents, I should tell them to take great care about the people with whom their children associate . . . Much harm may result from bad company, and we are inclined by nature to follow what is worse than what is better.</string>
+            <key>source</key>  <string>St. Elizabeth Ann Seton</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Mount Calvary is the academy of love.</string>
+            <key>source</key>  <string>St. Francis de Sales</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>You can win more converts with a spoonful of honey than with a barrelful of vinegar.</string>
+            <key>source</key>  <string>St. Francis de Sales</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>It is almost certain that excess in eating is the cause of almost all the diseases of the body, but its effects on the soul are even more disastrous. </string>
+            <key>source</key>  <string>St. Alphonsus Liguori </string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Be sure that you first preach by the way you live. If you do not, people will notice that you say one thing, but live otherwise, and your words will bring only cynical laughter and a derisive shake of the head.</string>
+            <key>source</key>  <string>St. Charles Borromeo </string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Leave sadness to those in the world. We who work for God should be lighthearted.</string>
+            <key>source</key>  <string>St. Leonard of Port Maurice</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>We should let God be the One to praise us and not praise ourselves. For God detests those who commend themselves. Let others applaud our good deeds.</string>
+            <key>source</key>  <string>Pope St. Clement I</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>You will accomplish more by kind words and a courteous manner than by anger or sharp rebuke, which should never be used except in necessity.</string>
+            <key>source</key>  <string>St. Angela Merici</string>
+        </dict>
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Another weapon the devil employs is immodesty, or more frankly, impurity. My dear children, be on your guard. The devil will tempt you with bad books, bad thoughts, or the foul conversation of a companion. When any such fellow approaches you, say to yourself, This is a minister of Satan. And let these wretches who indulge in foul conversation say to himself, I am a minister of Satan because I help him ruin souls!</string>
+            <key>source</key>  <string>St. John Bosco</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>...do you want to outwit the devil? Never let him catch you idle. Work, study, pray, and you will be surely overcome your spiritual enemy. </string>
+            <key>source</key>  <string>St. John Bosco </string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Either we must speak as we dress, or dress as we speak. Why do we profess one thing and display another? The tongue talks of chastity, but the whole body reveals impurity.</string>
+            <key>source</key>  <string>St. Jerome </string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>We must practice modesty, not only in our looks, but also in our whole deportment, and particularly in our dress, our walk, our conversation, and all similar actions.</string>
+            <key>source</key>  <string>St. Alphonsus Maria de Liguori</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Laugh and grow strong.</string>
+            <key>source</key>  <string>Ignatius of Loyola</string>
+        </dict>
+        
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>I will have o sadness in my house.</string>
+            <key>source</key>  <string>Philip Neri</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>quote</key>  <string>Hapiness is the natural oife of man.</string>
+            <key>source</key>  <string>Thomas Aquinas</string>
+        </dict>
+
+    </array>
 </plist>

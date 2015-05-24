@@ -8,6 +8,12 @@
 
 #import "FQViewController.h"
 
+@class BNRWebViewController;
+
 @interface BNRWebViewController : FQViewController
+
+
+@property (nonatomic) NSURL *URL;
+@property (nonatomic) BNRWebViewController *webViewController;
 
 @end
